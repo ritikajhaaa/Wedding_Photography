@@ -1,7 +1,7 @@
 
 # Wedding Photography Booking Website
 
-[Click here to go to the website](https://ritikajhaaa.github.io/Wedding_Photography/#portfolio)
+[Click here to go to the website](https://ritikajhaaa.github.io/Wedding_Photography)
 
 Welcome to the Wedding Photography Booking Website, a responsive web application designed to simplify the process of booking professional wedding photography services. This platform allows users to explore photography packages, view pricing details, and seamlessly book their desired services.
 
